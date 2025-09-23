@@ -38,7 +38,7 @@ The goal of the Site Planning Studio is to create a manual for Ecologic Oriented
 Client
 ------
 
-The client for this project is [Sekisui House](http://www.sekisuihouse.co.jp/english/index.html), a contracting firm in Tokyo, Japan.
+The client for this project is {{% resource_link "08fb7e80-a5ba-4aa0-a8f1-b4160339f970" "Sekisui House" %}}, a contracting firm in Tokyo, Japan.
 
 Required Textbooks
 ------------------
@@ -47,7 +47,7 @@ France, Robert L. _Wetland Design: Principles and Practices for Landscape Archit
 
 Lyle, John T. _Regenerative Design for Sustainable Development_. New York City, NY: John Wiley & Sons, 2008. ISBN: 9780471178439.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262121064) Lynch, Kevin, and Gary Hack. [_Site Planning_](https://mitpress.mit.edu/9780262121064). 3rd ed. Cambridge, MA: MIT Press, 1984. ISBN: 9780262121064.
+{{% resource_link "79356880-5c86-440b-9a27-a575f3231a67" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Lynch, Kevin, and Gary Hack. {{% resource_link "79356880-5c86-440b-9a27-a575f3231a67" "_Site Planning_" %}}. 3rd ed. Cambridge, MA: MIT Press, 1984. ISBN: 9780262121064.
 
 Marsh, William M. _Landscape Planning: Environmental Applications_. New York, NY: John Wiley & Sons, 2005. ISBN: 9780471485834.
 
