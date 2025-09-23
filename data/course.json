@@ -1,0 +1,59 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Architecture",
+      "Environmental Design"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Housing Development"
+    ],
+    [
+      "Engineering",
+      "Civil Engineering"
+    ]
+  ],
+  "legacy_uid": "53f7ec0b-7c45-884d-9232-33850005eb9a",
+  "instructors": {
+    "content": [
+      "5ab65d5b-c937-6357-af29-c3839f35a9a8"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c264508c-fe13-0ba1-022f-b7c22148144a",
+    "website": "11-304j-site-and-infrastructure-systems-planning-spring-2009"
+  },
+  "course_title": "Site and Infrastructure Systems Planning",
+  "course_description": "This course is a client-based land analysis and site planning project. The primary focus of the course changes from year to year. This year the focus is on Japan's New Towns.\n\nStudents will review land inventory, analysis, and planning of sites and the infrastructure systems that serve them.\u00a0They will\u00a0also examine spatial organization of uses, parcelization, design of roadways, grading, utility systems, stormwater runoff, parking, traffic and off-site impacts, as well as landscaping. Lectures\u00a0will cover\u00a0analytical techniques and examples of good site-planning practice. Requirements include a series of assignments and a client-based project.\n",
+  "department_numbers": [
+    "11",
+    "4"
+  ],
+  "extra_course_numbers": "4.255J",
+  "primary_course_number": "11.304J",
+  "course_image_thumbnail": {
+    "content": "0dd3e664-b6d8-d7de-1ec8-5839c2b16b7d",
+    "website": "11-304j-site-and-infrastructure-systems-planning-spring-2009"
+  },
+  "learning_resource_types": [
+    "Projects with Examples",
+    "Written Assignments"
+  ],
+  "site_uid": "60a2f4ba-399b-425f-aab7-e8ae6037f5af",
+  "site_short_id": "11.304j-spring-2009",
+  "site_url_path": "courses/11-304j-site-and-infrastructure-systems-planning-spring-2009",
+  "title": "Course Metadata"
+}
