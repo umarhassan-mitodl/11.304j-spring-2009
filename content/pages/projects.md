@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides descriptions of final project topics and information
   on neighborhood site plan assemblies.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -17,7 +19,7 @@ The studio developed three permutations of how the various typological approache
 Projects
 --------
 
-Descriptions of the final project topics can be found in the table below. The final projects and reports can be seen on the {{% resource_link "a3a295cb-b471-4159-94f6-a2211b231d67" "class web site" %}}.
+Descriptions of the final project topics can be found in the table below. The final projects and reports can be seen on the [class web site](http://web.mit.edu/11.304j/www/japan/).
 
 {{< tableopen >}}
 {{< theadopen >}}

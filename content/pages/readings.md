@@ -15,7 +15,7 @@ Assigned readings are listed below. Readings from the required textbooks are lis
 
 \[Lyle\] = Lyle, John T. *Regenerative Design for Sustainable Development*. New York City, NY: John Wiley & Sons, 2008. ISBN: 9780471178439.
 
-{{% resource_link "79356880-5c86-440b-9a27-a575f3231a67" "![Buy at MIT Press](/images/mp_logo.gif)" %}} \[Lynch and Hack\] = Lynch, Kevin and Gary Hack. {{% resource_link "79356880-5c86-440b-9a27-a575f3231a67" "*Site Planning*" %}}. 3rd ed. Cambridge, MA: MIT Press, 1984. ISBN: 9780262121064.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262121064) \[Lynch and Hack\] = Lynch, Kevin and Gary Hack. [*Site Planning*](https://mitpress.mit.edu/9780262121064). 3rd ed. Cambridge, MA: MIT Press, 1984. ISBN: 9780262121064.
 
 \[Marsh\] = Marsh, William M. *Landscape Planning: Environmental Applications*. New York, NY: John Wiley & Sons, 2005. ISBN: 9780471485834.
 
@@ -81,7 +81,7 @@ Earthwork and utilities
 
 Campbell, Craig S., and Michael H. Ogden. *Constructed Wetlands in the Sustainable Landscape*. New York City, NY: Wiley, 1999, chapter 5. ISBN: 9780471107200.
 
-Hydrology Handbook for Conservation Commissioners ({{% resource_link "5b7fa020-193b-42d7-9435-4b8de3297389" "PDF - 2.7MB" %}})
+Hydrology Handbook for Conservation Commissioners ([PDF - 2.7MB](https://www.mass.gov/files/documents/2016/08/wa/hydrol.pdf))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -89,17 +89,17 @@ Hydrology Handbook for Conservation Commissioners ({{% resource_link "5b7fa020-1
 Storm water: best management practices
 {{< tdclose >}}{{< tdopen >}}
 
-Low Impact Development ({{% resource_link "6c069536-66fe-4f0a-b8d6-2e847647a3de" "PDF - 3.3MB" %}})
+Low Impact Development ([PDF - 3.3MB](http://www.huduser.org/publications/pdf/practLowImpctDevel.pdf))
 
 \[Randolph\] Chapter 10
 
 \[France\] pp. 18-47
 
-Stormwater Management - Volume One ({{% resource_link "2379e3e3-9c8a-4337-b6fd-07fb08fb9f46" "PDF" %}})
+Stormwater Management - Volume One ([PDF](https://nepis.epa.gov/Exe/ZyNET.exe/9101OI3P.TXT?ZyActionD=ZyDocument&Client=EPA&Index=Prior+to+1976&Docs=&Query=&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5Czyfiles%5CIndex%20Data%5C70thru75%5CTxt%5C00000024%5C9101OI3P.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=hpfr&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=1&SeekPage=x&ZyPURL))
 
 \[Lyle\] Chapter 6
 
-{{% resource_link "0d38d199-a317-4cf2-b9e0-eb46fe757701" "Massachusetts Department of Environmental Protection Stormwater Policies & Guidelines" %}}
+[Massachusetts Department of Environmental Protection Stormwater Policies & Guidelines](https://www.mass.gov/info-details/stormwater#stormwater-policies-&-guidance-)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -109,7 +109,7 @@ Sites around wetlands and water features
 
 \[Marsh\] pp. 289-99 and 340-51, chapter 9
 
-{{% resource_link "c9171410-6540-406d-bb9e-91a18d96bc6c" "Stormwater Best Management Practices" %}}
+[Stormwater Best Management Practices](https://spcwater.org/topics/stormwater-management/stormwater-best-management-practices-2/)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -121,7 +121,7 @@ Gallion, Arthur B. *The Urban Pattern: City Planning and Design*. New York City,
 
 \[Lynch and Hack\] Chapter 7
 
-Wolf, Kathleen L. "Trees, Parking and Green Law: Strategies for Sustainability." USDA Forest Service & Georgia Forestry Commission, February 2004. ({{% resource_link "0d1df19a-622c-41ad-844d-a8820e298bc7" "PDF - 2.7MB" %}})
+Wolf, Kathleen L. "Trees, Parking and Green Law: Strategies for Sustainability." USDA Forest Service & Georgia Forestry Commission, February 2004. ([PDF - 2.7MB](http://www.naturewithin.info/Roadside/Trees_Parking_Green%20Law.pdf))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -133,9 +133,9 @@ Subdivisions, neighborhood design and sustainability
 
  Southworth, Michael and Eran Ben-Joseph. *Streets and the Shaping of Towns and Cities*. Washington, DC: Island Press, 2003. ISBN: 9781559639163.
 
-{{% resource_link "e8d29c17-d60e-4f08-a008-f3977c757f0b" "United States Green Building Council" %}}
+[United States Green Building Council](http://www.usgbc.org/)
 
-LEED for Neighborhood Developments Rating System ({{% resource_link "0eab8a62-d37e-44c3-be21-10892f7c70ce" "PDF - 2.4MB" %}})
+LEED for Neighborhood Developments Rating System ([PDF - 2.4MB](https://www.usgbc.org/ShowFile.aspx?DocumentID=959))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
