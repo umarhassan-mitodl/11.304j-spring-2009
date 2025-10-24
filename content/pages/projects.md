@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides descriptions of final project topics and information
   on neighborhood site plan assemblies.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

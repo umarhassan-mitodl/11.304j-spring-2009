@@ -4,8 +4,6 @@ description: Tama New Town.
 file: /courses/11-304j-site-and-infrastructure-systems-planning-spring-2009/c1d98ef7e529dd6adc5e05252257dc54_chp_tama.jpg
 file_size: 65397
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

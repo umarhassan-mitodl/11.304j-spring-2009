@@ -6,8 +6,6 @@ description: Assignment on alternatives and new approaches to site and infrastru
 file: /courses/11-304j-site-and-infrastructure-systems-planning-spring-2009/d9e9a93d5aa021d8ad431f92a150d4b6_MIT11_304js09_assn03a.pdf
 file_size: 71434
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
